@@ -20,9 +20,10 @@ This project implements **Neural Style Transfer** to apply the artistic style of
 
 | Content Image | Style Image | Stylized Output |
 |---------------|-------------|-----------------|
-| ![](examples/content.jpg) | ![](examples/style.jpg) | ![](examples/output.jpg) |
+|![Screenshot 2025-06-11 123349](https://github.com/user-attachments/assets/8750739d-8d67-4c87-b6c6-5f2c89c674ee)
+ | ![Screenshot 2025-06-11 123522](https://github.com/user-attachments/assets/ed25c4ee-93bc-4691-b5c2-ac2f4709b27e) | ![Screenshot 2025-06-11 123533](https://github.com/user-attachments/assets/da54f9da-0621-419a-b166-8a77b69bf4ce) |
 
-> Replace with your actual images from the project.
+
 
 ---
 
